@@ -13,3 +13,8 @@ cd har2img
 
 python3 file.py (will show usage automatically)
 ```
+
+please star this
+
+purpose of this script:
+modding and putting images to your mod menu
